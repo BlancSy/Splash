@@ -1,7 +1,7 @@
 {
-  "name": "theme-template",
+  "name": "Splash",
   "version": "1.0.0",
-  "description": "A theme template",
+  "description": "FrostedGlass edit",
   "engines": {
     "node": ">=14.0.0"
   },

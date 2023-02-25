@@ -1,40 +1,31 @@
-/**
-* @name Splash
-* @version Auto Update
-* @description Edited FrostedGlass
-* @author Blanc#1957
-* @invite ZHthyCw
-* @Source https://github.com/DiscordStyles/FrostedGlass
-* @website https://betterdiscord.app/theme/Frosted%20Glass
-*/
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
 :root {
---background-image: url('https://media.discordapp.net/attachments/1073651742169903147/1078028299009282109/upscaled.jpeg');
---background-image-blur: 0px;
---background-image-size: cover;
---background-image-position: center;
---popout-modal-image: url('https://media.discordapp.net/attachments/1073651742169903147/1078028299009282109/upscaled.jpeg');
---popout-modal-blur: 41px;
---popout-modal-size: cover;
---popout-modal-position: center;
---home-button-image: url('https://cdn.discordapp.com/attachments/1073651742169903147/1078029684140429422/00060-2690680741.jpeg');
---home-button-size: cover;
---home-button-position: center;
---serverlist-brightness: 0.5;
---left-brightness: 0.5;
---middle-brightness: 0.5;
---right-brightness: 0;
---popout-modal-brightness: 0.5;
---gradient-primary: 126,71,224;
---gradient-secondary: 43,157,214;
---gradient-direction: 167deg;
---tint-colour: 255,51,159;
---tint-brightness: 0.01;
---window-padding: 10px;
---window-roundness: 25px;
---scrollbar-colour: #FF339F5A;
---link-colour: #FF339FFF;
---show-gift-gif-buttons: none;
---font: 'Whitney';
---update-notice-1: none;
+  --background-image: url("https://media.discordapp.net/attachments/1073651742169903147/1078028299009282109/upscaled.jpeg");
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: url("https://media.discordapp.net/attachments/1073651742169903147/1078028299009282109/upscaled.jpeg");
+  --popout-modal-blur: 41px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center;
+  --home-button-image: url("https://cdn.discordapp.com/attachments/1073651742169903147/1078029684140429422/00060-2690680741.jpeg");
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.5;
+  --left-brightness: 0.5;
+  --middle-brightness: 0.5;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.5;
+  --gradient-primary: 126, 71, 224;
+  --gradient-secondary: 43, 157, 214;
+  --gradient-direction: 167deg;
+  --tint-colour: 255, 51, 159;
+  --tint-brightness: 0.01;
+  --window-padding: 10px;
+  --window-roundness: 25px;
+  --scrollbar-colour: #ff339f5a;
+  --link-colour: #ff339fff;
+  --show-gift-gif-buttons: none;
+  --font: "Whitney";
+  --update-notice-1: none;
 }
